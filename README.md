@@ -1,9 +1,8 @@
-# hello-world
 <html>
 <nav id="nav-dashboardHeader">
   <ul>
     <li class="current_menu_item"><a href="#">Home</a>
-      <li class="current_menu_item"><a href="#">Requests</a>
+      <li><a href="#">Requests</a>
         <ul>
           <li class="current_menu_item">
             <li><a href="http://portal/#">High Priority</a>
@@ -124,5 +123,7 @@
                     <span id="searchclear" class="glyphicon glyphicon-remove-circle"></span>
                   </div>
                 </form>
-                </nav>
-                </html>
+              </li>
+              </ul>
+              </nav>
+</html>
