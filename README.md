@@ -1,4 +1,3 @@
-<html>
 <nav id="nav-dashboardHeader">
   <ul>
     <li class="current_menu_item"><a href="#">Home</a>
@@ -124,6 +123,5 @@
                   </div>
                 </form>
               </li>
-              </ul>
-              </nav>
-</html>
+  </ul>
+</nav>
